@@ -1,0 +1,5 @@
+{
+    "name": "scala-workspace",
+    "context": "..",
+    "dockerFile": "Dockerfile"
+}
