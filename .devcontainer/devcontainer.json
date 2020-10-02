@@ -1,5 +1,9 @@
 {
     "name": "scala-workspace",
     "context": "..",
-    "dockerFile": "Dockerfile"
+    "dockerFile": "Dockerfile",
+
+    "extensions": [
+        "scalameta.metals"
+    ]
 }
