@@ -5,5 +5,7 @@
 
     "extensions": [
         "scalameta.metals"
-    ]
+    ],
+
+    "appPort": [8001]
 }
