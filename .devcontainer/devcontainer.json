@@ -7,5 +7,10 @@
         "scalameta.metals"
     ],
 
+    "settings": {
+        "editor.defaultFormatter": "scalameta.metals",
+        "editor.formatOnSave": true,
+    },
+
     "appPort": [8001]
 }
